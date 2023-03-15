@@ -1,3 +1,3 @@
 # Gaminator_R_Class
 
-This is where i uploaded my Gaminator R codes to
+This repository is a series of R notebooks from my gaminator class at TechCreek
